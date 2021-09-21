@@ -1,7 +1,7 @@
 
 # 6. Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
 
-# Primeiro precisamos saber qual a fórmula matemática que calcula o círculo!
+# Primeiro precisamos saber qual a fórmula matemática que calcula á área do círculo!
 
 # >>> a = pi*r**2
 
