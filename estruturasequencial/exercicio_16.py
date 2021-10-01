@@ -4,7 +4,7 @@
 #quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00.
 #Informe ao usuário a quantidade de latas de tinta a serem compradas e o preço total.
 # math.ceil() -->  arredonda para o número inteiro de cima mais próximo.
-# math.floor() --> arredonda para o número inteiro de baixo mais próximo.
+# math.floor()-->  arredonda para o número inteiro de baixo mais próximo.
 
 import math
 
