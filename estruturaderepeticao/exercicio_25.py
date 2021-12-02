@@ -18,4 +18,4 @@ if 0 <= media_de_idade <= 25:
 elif 26 <= media_de_idade <= 60:
     print('Portanto a turma é formada por adultos!')
 elif media_de_idade > 60:
-    print('Portanto a turma é formada por jovens!')
+    print('Portanto a turma é formada por idosos!')
