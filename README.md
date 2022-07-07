@@ -3,3 +3,5 @@ Resolução dos exercícios da lista Python Brasil, contendo comentários passo 
 Use para estudar e desenvolver suas próprias soluções!
 
 Fique a vontade para corrigir ou melhorar qualquer um dos programas!
+
+Versão do python utilizado é 3.9.7
